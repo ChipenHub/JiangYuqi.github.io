@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 姜雨奇的简历
+source_description: "在线版：https://chipenhub.github.io/JiangYuqi.github.io/"
 ---                                                                                                                                      
 
 ## 基本信息
